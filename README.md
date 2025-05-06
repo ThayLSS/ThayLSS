@@ -1,3 +1,4 @@
+**`Estudante`**
 - 👋 Olá, sou a Thaynara Lima
 - 👀 Atualmente estou cursando Engenharia de Software
 
