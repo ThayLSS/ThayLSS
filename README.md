@@ -1,4 +1,4 @@
-## Olá! Meu nome é Thaynara, seja bem vindo ao meu perfl!
+## Olá! Meu nome é Thaynara, seja bem vindo ao meu perfil!
 
 **`Estudante`**
 - 👋 Olá, sou a Thaynara Lima
