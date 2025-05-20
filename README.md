@@ -3,6 +3,9 @@
 **`Estudante`**
 - 👋 Olá, sou a Thaynara Lima
 - 👀 Atualmente estou cursando Engenharia de Software
+- CSS | MySQL
+- Inglês intermediário
+
 
 <!---
 ThayLSS/ThayLSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
