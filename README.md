@@ -26,8 +26,7 @@ Sou estudante de Engenharia de Software. Gosto de resolver problemas reais atrav
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:**[(https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/thaynara-lima/))
---->
+- **LinkedIn:**(https://www.linkedin.com/in/thaynara-lima/))
 <h1> </h1>
 
 <picture>
