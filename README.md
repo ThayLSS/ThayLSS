@@ -1,6 +1,4 @@
-## Olá! Meu nome é Thaynara, seja bem vindo ao meu perfil!
 
-**`Estudante`**
 # Olá, eu sou a Thaynara! 👋
 
 ### 👩‍💻 Sobre mim
