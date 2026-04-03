@@ -25,11 +25,6 @@ Sou estudante de Engenharia de Software. Gosto de resolver problemas reais atrav
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-### 📈 Estatísticas do GitHub
-![Estatísticas de ThayLSS](https://github-readme-stats.vercel.app/api?username=ThayLSS&show_icons=true&theme=dracula)
-
----
-
 ### 📫 Como me encontrar
 - **LinkedIn:**[(https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/thaynara-lima/))
 --->
