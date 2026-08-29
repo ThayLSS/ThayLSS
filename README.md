@@ -34,8 +34,7 @@ Estudante de **Engenharia de Software** apaixonada por resolver problemas reais 
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThayLSS&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThayLSS&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThayLSS&theme=dark" />
 </div>
 
 ---
